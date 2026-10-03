@@ -9,6 +9,8 @@ Pick a folder (for example your ShadowPlay `Videos` folder). Every sub-folder co
 - total minutes and total hours
 - its share of all your footage
 
+IMPORTANT NOTICE : It s entirely done by claude,you can check the code for anything suspicious
+
 ![Video Stats window](screenshot.png)
 
 *(The screenshot uses sample data.)*
